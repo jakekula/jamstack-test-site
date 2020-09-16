@@ -1,0 +1,15 @@
+{
+  "name": "my-blog",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "@gridsome/source-contentful": "^0.5.3",
+    "gridsome": "^0.7.0",
+    "markdown-it": "^11.0.1",
+    "tailwindcss": "^1.8.10"
+  }
+}
